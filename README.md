@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @alevip48204809pro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alevip48204809pro/alevip48204809pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+dataproject
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    operetor
+  </body>
+</html>
+operetorproject
+javaoperetor
+textoperetor
+target
+target
+operetor
